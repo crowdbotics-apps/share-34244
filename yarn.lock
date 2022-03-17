@@ -952,6 +952,9 @@
   dependencies:
     react-native-app-intro-slider "^4.0.4"
 
+"@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
 "@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
