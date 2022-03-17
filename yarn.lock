@@ -952,10 +952,8 @@
   dependencies:
     react-native-app-intro-slider "^4.0.4"
 
-"@modules/onboarding@file:./modules/onboarding/":
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
-  dependencies:
-    react-native-app-intro-slider "^4.0.4"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
   version "5.0.1"
